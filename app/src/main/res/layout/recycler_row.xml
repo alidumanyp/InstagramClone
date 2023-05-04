@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/recyclerEmailText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Alidumanyp@gmail.com"
+        android:textSize="25sp"
+        android:textColor="@android:color/holo_red_dark"
+        android:layout_margin="5dp"></TextView>
+
+    <ImageView
+        android:id="@+id/recyclerImageView"
+        android:layout_width="270dp"
+        android:layout_height="270dp"
+        android:layout_margin="5dp"
+        android:layout_gravity="center"></ImageView>
+
+    <TextView
+        android:id="@+id/recyclerCommentText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:layout_margin="5dp"
+        android:text="comment"
+        android:textColor="@color/black"
+        ></TextView>
+
+</LinearLayout>
