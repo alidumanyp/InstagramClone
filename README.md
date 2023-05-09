@@ -1,6 +1,6 @@
 # Instagram Clone
 
-The application simply pulls countries using api and displays them on the home page. When you click on a country, you will be directed to another page and the details of that country will be shown.
+It is a simple clone prepared with the basic logic of the Instagram.
 
    
 ## Used in the project
